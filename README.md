@@ -1,2 +1,2 @@
 # Network-Architecture
-I worked on multiple Wire Shark Projects and a couple of socket server programming projects 
+I worked socket server programming projects and also worked on multiple Wire Shark Projects as part of the curriculum in Network Architecture
